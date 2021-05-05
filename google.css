@@ -1,0 +1,123 @@
+#bordure
+{
+    color: #fff;
+    border-radius: 5em;
+    padding: 10px 40px;
+    box-shadow: 0 4px #e8edef;
+    width: 500px;
+    height: 25px;
+    top: 300px;
+    right: 400px;
+    position: absolute;
+    border: solid 0.8px gray;
+}
+#border
+{
+    color: #fff;
+    border-radius: 5em;
+    padding: 10px 40px;
+    box-shadow: 0 4px #e8edef;
+    width: 80px;
+    height: 20px;
+    top: 600px;
+    right: 20px;
+    position: absolute;
+    border: solid 0.8px gray; 
+}
+#cercle1
+{
+    position: absolute;
+    top: 370px;
+    left: 600px;
+    color: #e8edef;
+}
+#cercle
+{
+    position: absolute;
+    top: 370px;
+    left: 710px;
+    color: #e8edef; 
+}
+#gm
+{
+    position: absolute;
+    top: 10px;
+    right: 130px;
+}
+#img
+{
+    position: absolute;
+    top: 10px;
+    right: 70px; 
+}
+#eff
+{
+    position: absolute;
+    top: 295px;
+    left: 430px;
+    font-size: 1.1em;
+}
+#icone
+{
+    position: absolute;
+    top: 307px;
+    left: 400px;
+}
+#menu
+{
+    position: absolute;
+    top: 13px;
+    right: 20px;
+}
+#google
+{
+    position: absolute;
+    top: 170px;
+    left: 500px;
+}
+#micro
+{
+    position: absolute;
+    top: 310;
+    right: 410px;
+    width: 50px;
+}
+#g
+{
+    position: absolute;
+    width: 25px;
+    top: 387px;
+    left: 617px;
+}
+#gma
+{
+    position: absolute;
+    top: 420px;
+    left: 610px;
+}
+#racc
+{
+    position: absolute;
+    top: 420px;
+    left: 700px;
+}
+#perso
+{
+    position: absolute;
+    top: 595px;
+    right: 60px;
+    color: #0090ff;
+}
+#crayon
+{
+    position: absolute;
+    top: 605px;
+    right: 150px;
+}
+#plus
+{
+    position: absolute;
+    top: 350px;
+    left: 730px;
+    font-size: 2em;
+}
